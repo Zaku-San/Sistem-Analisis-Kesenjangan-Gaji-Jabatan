@@ -1,4 +1,4 @@
-# Salary Equation Employee Analysis
+# Salary Equation Management Analysis
 
 ## ⚙️ Tools
 Make sure the following tools are installed:
@@ -16,8 +16,12 @@ Verify that the C++ compiler is installed by running this command:
 g++ --version
 ```
 
-## How to Run the Program
-Navigate to Folder Build and run the .exe file
+## ▶️ How to Run the Program
+Navigate to Folder Build and run this command:
+# CMD:
+```bash
+program.exe
+```
 
 ## ▶️ How to Compile the Program
 If you modify the source code and want to recompile the program, run the following command from the root project directory:
